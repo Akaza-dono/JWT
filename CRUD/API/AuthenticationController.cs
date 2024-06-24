@@ -28,7 +28,7 @@ namespace CRUD.API
             using(CRUDbContext context = new())
             {
                 var usuario = context.Usuarios.Where(User => User.Correo == user.Correo).FirstOrDefault();
-                if (usuario != null && usuario.Password == user.Password) 
+                if (usuario != null && usuario.Password == user.Password && usuario.IsActive == true) 
                 {
                     var keyBytes = Encoding.ASCII.GetBytes(_authenticationToken);
                     var claims = new ClaimsIdentity();

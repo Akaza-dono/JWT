@@ -1969,11 +1969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\CRUD.csproj",
+      "projectUniqueName": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\CRUD.csproj",
       "projectName": "CRUD",
-      "projectPath": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\CRUD.csproj",
+      "projectPath": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\CRUD.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\obj\\",
+      "outputPath": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",

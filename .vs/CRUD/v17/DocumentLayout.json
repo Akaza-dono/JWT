@@ -1,33 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\migue\\source\\repos\\CRUD\\",
+  "WorkspaceRootPath": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\source\\repos\\crud\\crud\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|solutionrelative:crud\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\onedrive\\escritorio\\projects\\jwt\\crud\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|solutionrelative:crud\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\source\\repos\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\onedrive\\escritorio\\projects\\jwt\\crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\source\\repos\\crud\\crud\\api\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\onedrive\\escritorio\\projects\\jwt\\crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\onedrive\\escritorio\\projects\\jwt\\crud\\api\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|solutionrelative:crud\\api\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\source\\repos\\crud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\source\\repos\\crud\\crud\\ddbbmodels\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\onedrive\\escritorio\\projects\\jwt\\crud\\ddbbmodels\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|solutionrelative:crud\\ddbbmodels\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\source\\repos\\crud\\crud\\api\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\onedrive\\escritorio\\projects\\jwt\\crud\\api\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|solutionrelative:crud\\api\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\source\\repos\\crud\\crud\\data\\crudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\onedrive\\escritorio\\projects\\jwt\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\onedrive\\escritorio\\projects\\jwt\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|c:\\users\\migue\\onedrive\\escritorio\\projects\\jwt\\crud\\data\\crudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AB873B0-1EB5-4624-9C2E-2D957E18AB55}|CRUD\\CRUD.csproj|solutionrelative:crud\\data\\crudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -37,42 +45,29 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 341,
+          "DockedWidth": 231,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\.gitignore",
-              "RelativeDocumentMoniker": "CRUD\\.gitignore",
-              "ToolTip": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\.gitignore",
-              "RelativeToolTip": "CRUD\\.gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-24T04:02:21.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\Program.cs",
               "RelativeDocumentMoniker": "CRUD\\Program.cs",
-              "ToolTip": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\Program.cs",
               "RelativeToolTip": "CRUD\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T07:01:39.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CRUDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\Data\\CRUDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\Data\\CRUDbContext.cs",
               "RelativeDocumentMoniker": "CRUD\\Data\\CRUDbContext.cs",
-              "ToolTip": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\Data\\CRUDbContext.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\Data\\CRUDbContext.cs",
               "RelativeToolTip": "CRUD\\Data\\CRUDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -80,11 +75,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\appsettings.json",
               "RelativeDocumentMoniker": "CRUD\\appsettings.json",
-              "ToolTip": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\appsettings.json",
               "RelativeToolTip": "CRUD\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -93,30 +88,70 @@
           ]
         },
         {
-          "DockedWidth": 345,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 455,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T06:00:47.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T04:30:35.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "CRUD\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "CRUD\\wwwroot\\js\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-24T04:26:33.202Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\DDBBModels\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\DDBBModels\\Usuario.cs",
               "RelativeDocumentMoniker": "CRUD\\DDBBModels\\Usuario.cs",
-              "ToolTip": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\DDBBModels\\Usuario.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\DDBBModels\\Usuario.cs",
               "RelativeToolTip": "CRUD\\DDBBModels\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T18:09:31.443Z"
+              "WhenOpened": "2024-06-23T18:09:31.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\API\\AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\API\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "CRUD\\API\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\API\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\API\\AuthenticationController.cs",
               "RelativeToolTip": "CRUD\\API\\AuthenticationController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAABpAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T07:43:59.568Z",
               "EditorCaption": ""
@@ -125,13 +160,14 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CRUDController.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\API\\CRUDController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\API\\CRUDController.cs",
               "RelativeDocumentMoniker": "CRUD\\API\\CRUDController.cs",
-              "ToolTip": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\API\\CRUDController.cs",
+              "ToolTip": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\API\\CRUDController.cs",
               "RelativeToolTip": "CRUD\\API\\CRUDController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T04:11:29.528Z"
+              "WhenOpened": "2024-06-23T04:11:29.528Z",
+              "EditorCaption": ""
             }
           ]
         }

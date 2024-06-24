@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VuZ3V5mny1dZO5EZCmTQw+jUFfB7svhKafNm8MqKocCtNiDQ+dmOY4dGmStoM1UJhWZmQ+Cere5EE66M+VXvUg==",
+  "dgSpecHash": "Kq9+dHv3q2c+7lBcviCGuRdsL7iZytOX/6JbM4FQ81b2GbxsIgedAj34clDpkHLldJ0RJ9xFbGnXapTaR0V9MQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\migue\\source\\repos\\CRUD\\CRUD\\CRUD.csproj",
+  "projectFilePath": "C:\\Users\\migue\\OneDrive\\Escritorio\\PROJECTS\\JWT\\CRUD\\CRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\migue\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\migue\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.31\\microsoft.aspnetcore.authentication.jwtbearer.6.0.31.nupkg.sha512",

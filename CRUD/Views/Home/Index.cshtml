@@ -1,8 +1,24 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    IgnoreBody();
 }
+<style>
+    body{
+        height: 100vh;
+        width: 100%
+    }
+</style>
+<head>
+</head>
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container-fluid d-flex align-content-end justify-content-start gap-2">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">CRUD</a>
+            <button type="button" class="btn btn-primary" id="autenticar">Autenticar</button>
+            <button type="button" class="btn btn-success" id="lista_usuarios">Mostrar Usuarios</button>
+        </div>
+    </nav>
+</header>
+<div id="dataGridContainer"></div>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+
+<script src="~/js/main.js" type="module"></script>
